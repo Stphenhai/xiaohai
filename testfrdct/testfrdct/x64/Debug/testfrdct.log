@@ -1,0 +1,44 @@
+﻿  testfrdct.cpp
+d:\testfrdct\testfrdct\testfrdct\frdct.h(52): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\testfrdct\testfrdct\testfrdct\frdct.h(54): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+d:\testfrdct\testfrdct\testfrdct\frdct.h(498): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+d:\testfrdct\testfrdct\testfrdct\frdct.h(500): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+d:\testfrdct\testfrdct\testfrdct\frdct.h(504): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+d:\testfrdct\testfrdct\testfrdct\frdct.h(506): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+d:\testfrdct\testfrdct\testfrdct\frdct.h(515): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+d:\testfrdct\testfrdct\testfrdct\frdct.h(517): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+d:\testfrdct\testfrdct\testfrdct\frdct.h(521): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+d:\testfrdct\testfrdct\testfrdct\frdct.h(523): warning C4244: “参数”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+  testfrdct.vcxproj -> D:\testfrdct\testfrdct\x64\Debug\testfrdct.exe
